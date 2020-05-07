@@ -1,0 +1,13 @@
+.m-topbar .m-topbar__nav.m-nav > .m-nav__item > .m-nav__link .m-topbar__username {
+	color: rgb(25, 59, 100) !important;
+}
+
+.m-topbar .m-topbar__nav.m-nav > .m-nav__item:hover > .m-nav__link .m-topbar__username, .m-topbar .m-topbar__nav.m-nav > .m-nav__item.m-nav__link-icon--active > .m-nav__link .m-topbar__username, .m-topbar .m-topbar__nav.m-nav > .m-nav__item.m-dropdown--open > .m-nav__link .m-topbar__username {
+	color: rgb(25, 59, 100) !important;
+}
+
+.btn-custom {
+	color: #fff;
+	background-color: rgb(25, 59, 100);
+	border-color: rgb(25, 59, 100);
+}
